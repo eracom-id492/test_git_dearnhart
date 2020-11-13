@@ -24,13 +24,13 @@ padding: 10px;
 color: #fff;
 }
 div:first-of-type {
-background: dodgerblue;
+background: red;
 }
 div:nth-of-type(2) {
-background: orange;
+background: teal;
 }
 div:nth-of-type(3) {
-background: olivedrab;
+background: blue;
 }
 div:nth-of-type(4) {
 background: hotpink;
@@ -47,7 +47,3 @@ nav a {
   border: 1px solid #fff;
   white-space: nowrap;
 }
-
-
-
-Resources1×0.5×0.25×Rerun
